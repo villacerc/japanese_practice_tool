@@ -1,1 +1,1 @@
-![Alt text](/screenshots/splash.png?raw=true "Splash Screen")
+![splash](/screenshots/splash.png?raw=true "Splash Screen")
