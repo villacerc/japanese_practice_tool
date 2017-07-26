@@ -1,5 +1,7 @@
 # JapanesePracticeTool
 
+A fun and interactive way to learn Japanese!
+
 Swift version: 3.1
 
 To get started:
