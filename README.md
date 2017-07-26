@@ -2,11 +2,10 @@
 
 A fun and interactive way to learn Japanese!
 
-# version
+# Version
 Swift version: 3.1
 
-# get started
-To get started:
+# Get Started
 
 ```
 git clone https://github.com/villacerc/japanese_practice_tool.git
