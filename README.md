@@ -1,6 +1,5 @@
 # JapanesePracticeTool
 
-# what it is
 A fun and interactive way to learn Japanese!
 
 # version
